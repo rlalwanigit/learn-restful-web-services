@@ -1,4 +1,4 @@
-package com.rohitlalwani.rest.webservices.learnrestfulwebservices.user;
+package com.rohitlalwani.rest.webservices.learnrestfulwebservices.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -16,13 +16,14 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-		<!--For Integrating API monitoring-->
+
+		<!--For exploring APIs using HAL Explorer-->
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-rest-hal-explorer</artifactId>
 		</dependency>
 
-		<!--For exploring APIs using HAL Explorer-->
+		<!--For Integrating API monitoring-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
